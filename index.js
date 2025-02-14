@@ -6,7 +6,7 @@ const cors = require("cors");
 const { google } = require("googleapis");
 const app = express();
 
-// Enable CORS for all origins, including localhost
+// Enable CORS for all origins, inmf cmf cmf cnf cmf cmf cmf cm fmc fmc fmcluding localhost
 app.use(cors());
 
 // Multer setup with file size limit (1 minute of video ~ 50MB)
